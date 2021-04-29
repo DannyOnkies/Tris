@@ -7,3 +7,5 @@ Tic-tac-toe is a hugely popular abstract paper and pencil game with perfect info
 ## Instructions
 
 from a console prompt, launch tris.bat
+
+![image](https://github.com/DannyOnkies/Tris/blob/main/tris.JPG)
